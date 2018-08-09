@@ -37,6 +37,5 @@ class InitMwsCommand extends Command
      */
     public function handle()
     {
-
     }
 }
