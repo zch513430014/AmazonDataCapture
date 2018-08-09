@@ -3,13 +3,13 @@
 
 AmazonDataCapture是用于亚马逊数据获取的集合平台项目。
 
-项目需要做的功能:
+<strong>项目需要做的功能:</strong>
 
 1.涉及到MWS接口数据获取
 
 2.sellercentral数据抓取
 
-3.www.amazon.com数据抓取
+3.www.amazon.com 数据抓取
 
 4.Amazon Advertising数据抓取
 
